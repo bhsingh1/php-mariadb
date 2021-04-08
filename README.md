@@ -8,7 +8,7 @@ Create table students (student_id int(2), first_name varchar(30), last_name varc
 <br>
 <br> <br>
 ### Insert a value using sql : <br>
-Insert into students values (1, 'Vaibhav', 'Jain', 10, 8, 9, 'Science', 231, 'student@email.com'); 
+Insert into students values (1, 'Bhawani', 'Singh', 10, 8, 9, 'Science', 231, 'student@email.com'); 
 <br><br> <br>
 ### Create a table advisors using following sql : <br>
 Create table advisors (advisor_id int(3), name varchar(256), email varchar(256)); 
